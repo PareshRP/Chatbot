@@ -1,15 +1,15 @@
 # Chatbot
 A simple Chatbot Using api.ai that helps your order flowers.
 
-Overview
+# Overview
 
 This is a Python client for a Flower Delivery Chatbot made using API.AI. The bot will have a full conversation with the user, from intial proposal to order delivery status.
 
-Dependencies:
+# Dependencies:
 
 [python 2.7]
 API.AI
-Basic Usage: To run, type the following into terminal
+## Basic Usage: To run, type the following into terminal
 
 python demo.py
 
@@ -17,7 +17,7 @@ python demo.py
 
 The conversation will start! All the chatbot logic happens in the API.AI console You can exit the conversation by just typing 'exit' into the chat.
 
-Example conversation:
+# Example conversation:
 
 1.me: I wanna buy some flowers => Sure! Tell me the type of flowers u want.
 
